@@ -1,4 +1,4 @@
-# 읽기 좋은 코드가 좋은 코드다 📚
+# 읽기 좋은 코드가 좋은 코드다 📓
 ## PART 0 서론
 ### 코드는 이해하기 쉬워야 한다
 **가독성의 기본 정리 (The Fundamental Theorem of Readability)**
